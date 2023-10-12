@@ -13,6 +13,7 @@ public class Main {
         Kalkulator kalkulator = new Kalkulator();
         kalkulator.add(a,b);
         kalkulator.mul(a,b);
+
         kalkulator.sub(a,b);
         kalkulator.div(a,b);
 
